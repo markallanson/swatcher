@@ -1,0 +1,13 @@
+﻿<Window x:Class="SystemColorsSwatchBrowser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title=".Net Colors Swatch" Height="470" Width="692" 
+        Icon="/SystemColorsSwatchBrowser;component/Images/Net%20Colors%20Swatch.PNG">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+                  HorizontalScrollBarVisibility="Disabled">
+        <StackPanel x:Name="swatchPanel"
+                    Orientation="Vertical">
+        </StackPanel>
+    </ScrollViewer>
+</Window>

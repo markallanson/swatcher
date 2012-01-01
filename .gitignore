@@ -1,0 +1,20 @@
+# C# Files #
+######################
+*.suo
+*.csproj.user
+*.dll
+*.pdb
+*.FileListAbsolute.txt
+*.xap
+*.orig
+*.cache
+*.XapCacheFile.xml
+[bB]in/
+[oO]bj/
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
